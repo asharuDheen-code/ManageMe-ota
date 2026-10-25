@@ -1,9 +1,10 @@
 {
-  "version": null,
-  "url": "",
-  "checksum": "",
-  "minVersionCode": null,
-  "maxVersionCode": null,
-  "notes": "Nothing published. Written by ManageMe-client/scripts/publish-ota.js.",
-  "publishedAt": null
+  "version": "1.0.16-ota1",
+  "url": "https://github.com/asharuDheen-code/ManageMe-ota/releases/download/v1.0.16-ota1/bundle-1.0.16-ota1.zip",
+  "checksum": "3f3704c3ce26f44f062bc849bc0b80eebaae2b0642385c2f23282305f80ecae1",
+  "minVersionCode": 22,
+  "maxVersionCode": 22,
+  "notes": "End-to-end test bundle (same code as 1.0.16)",
+  "commit": "2274ef5",
+  "publishedAt": "2026-10-25T07:24:52.523Z"
 }
