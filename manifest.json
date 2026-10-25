@@ -1,9 +1,9 @@
 {
-  "version": "builtin",
+  "version": null,
   "url": "",
   "checksum": "",
-  "minVersionCode": 22,
-  "maxVersionCode": 22,
-  "notes": "Stopped: phones go back to the code built into their app.",
-  "publishedAt": "2026-10-25T07:27:10.959Z"
+  "minVersionCode": null,
+  "maxVersionCode": null,
+  "notes": "Nothing published. Written by ManageMe-client/scripts/publish-ota.js.",
+  "publishedAt": null
 }
